@@ -1,5 +1,6 @@
 
-This is from 3D-Lung-nodules-detection for LUNA16 Competition
+This is from 3D-Lung-nodules-detection for LUNA16 Competition Pytorch
+
 # 1. 目录
 
 1. [datasetMake](./docs/dataset.md)数据集的制作流程
