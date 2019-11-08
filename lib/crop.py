@@ -115,10 +115,10 @@ class Crop(object):
 
         for i in range(len(pad)):
             for j in range(len(pad[i])):
-                if pad[i][j] < crop_size[0] :
+                if pad[i][j] <=  crop_size[0] :
                     pad[i][j] = pad[i][j]
                 else :
-                    pad[i][j] = 0
+                    pad[i][j] = crop_size[0]
                     debuger.login('Execption happend')
 
 
