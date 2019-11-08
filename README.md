@@ -1,5 +1,5 @@
 
-this is from 3D
+This is from 3D-Lung-nodules-detection for LUNA16 Competition
 # 1. 目录
 
 1. [datasetMake](./docs/dataset.md)数据集的制作流程
